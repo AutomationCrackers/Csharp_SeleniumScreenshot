@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBJ0mVZRuP9vlqcSdcr3d81UMEmSmKhOmHrh7Fnax2/Pcg8fJtCasyseqE0L904A8BG3oQ/mWLmiHyT5eUmaDA==",
+  "success": true,
+  "projectFilePath": "D:\\Selenium Csharp\\Csharp_Selenium_Screenshot\\Csharp_Selenium_Screenshot\\Csharp_Selenium_Screenshot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

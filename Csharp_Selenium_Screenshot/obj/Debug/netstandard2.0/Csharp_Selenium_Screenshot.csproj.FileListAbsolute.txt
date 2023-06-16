@@ -1,0 +1,12 @@
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\selenium-manager\linux\selenium-manager
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\selenium-manager\macos\selenium-manager
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\selenium-manager\windows\selenium-manager.exe
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\Csharp_Selenium_Screenshot.deps.json
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\Csharp_Selenium_Screenshot.dll
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\bin\Debug\netstandard2.0\Csharp_Selenium_Screenshot.pdb
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.csprojAssemblyReference.cache
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.AssemblyInfoInputs.cache
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.AssemblyInfo.cs
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.csproj.CoreCompileInputs.cache
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.dll
+D:\Selenium Csharp\Csharp_Selenium_Screenshot\Csharp_Selenium_Screenshot\obj\Debug\netstandard2.0\Csharp_Selenium_Screenshot.pdb
